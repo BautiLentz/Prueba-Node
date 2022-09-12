@@ -12,4 +12,5 @@ function Perfiles(nombre,apellido,vocacion,nacionalidad,domicilio,edad,dni){
 let persona1=new Perfiles("Juan","Carubin","Estudiante","Argentino","CABA",19,45076890)
 
 let persona2=new Perfiles("Bautista",'Lentz',"Programacion",'Argentino',"CABA",20,44678907)
-console.log(persona1.nacionalidad)
+console.log(persona1)
+console.log(persona2)
