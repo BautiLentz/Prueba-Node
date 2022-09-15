@@ -14,3 +14,13 @@ let persona1=new Perfiles("Juan","Carubin","Estudiante","Argentino","CABA",19,45
 let persona2=new Perfiles("Bautista",'Lentz',"Programacion",'Argentino',"CABA",20,44678907)
 console.log(persona1)
 console.log(persona2)
+
+
+let nombres={
+nombre1:"Martina",
+nombre2:"Pedro",
+nombre3:"Juanpa"
+}
+
+nombres.nombre1="Pepe"
+console.log(nombres)
